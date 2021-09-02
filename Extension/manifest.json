@@ -4,10 +4,10 @@
     "version": "0.1.0",
     "manifest_version": 3,
     "icons": {
-        "16": "./Assets/logo-16x16.png",
-        "32": "./Assets/logo-32x32.png",
-        "48": "./Assets/logo-48x48.png",
-        "128": "./Assets/logo-128x128.png"
+        "16": "./Assets/Icons/mcmaster-crest-16x16.png",
+        "32": "./Assets/Icons/mcmaster-crest-32x32.png",
+        "48": "./Assets/Icons/mcmaster-crest-48x48.png",
+        "128": "./Assets/Icons/mcmaster-crest-128x128.png"
     },
     "background": {
         "service_worker": "./background.js"
@@ -15,10 +15,10 @@
     "action": {
         "default_popup": "./Popup/popup.html",
         "default_icons": {
-            "16": "./Assets/logo-16x16.png",
-            "32": "./Assets/logo-32x32.png",
-            "48": "./Assets/logo-48x48.png",
-            "128": "./Assets/logo-128x128.png"
+            "16": "./Assets/Icons/mcmaster-crest-16x16.png",
+            "32": "./Assets/Icons/mcmaster-crest-32x32.png",
+            "48": "./Assets/Icons/mcmaster-crest-48x48.png",
+            "128": "./Assets/Icons/mcmaster-crest-128x128.png"
         }
     },
     "options_page": "./Options/options.html",
